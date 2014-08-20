@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+date: 2014-08-20
+img: Sakura-X.jpg
+alt: image-alt
+project-date: August 2014
+client: Developper
+category: SakuraBoard Development
+---
+* JPY 370,000 + Tax + Postage
+
+SAKURA-X は暗号とインターフェイス回路用にそれぞれ、 Xilinx® のFPGAデバイスのKintex™-7 (XC7K70T/160T/325T) と Spartan-6 (XC6SLX45 /LX100) が搭載されています。
+
+また１GBのDDR3-SRAMも搭載されていて、様々なオプションカードに使えるFMC LPCインタフェースをサポートしています 。</p><p>SAKURA-Xは産総研がJST/ CREST（戦略的創造科学技術のための科学技術振興機構/コア研究）研究プロジェクトで開発したSASEBO-GIIIの商用版です。

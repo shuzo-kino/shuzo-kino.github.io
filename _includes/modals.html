@@ -10,12 +10,48 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-10 col-lg-offset-1">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+			    
+			    
+			    {% if post.sakura %}
+			    <div class="col-lg-12 text-center">
+		  
+			      <h2>Product List</h2>
+			      <hr class="star-primary">
+			      {% if post.link %}
+			      <a href="{{ post.link }}">詳細はこちらから　More Infomation</a>
+			      {% endif %}
+			      <p>Mail: sakura(atmark)mtmsoftware.net </p>
+			      
+			    </div>
+			
+			    <div class="row">
+			      <div class="col-lg-5 col-lg-offset-1">
+				<h3>SAKURA-G</h3>
+				<p>JPY 160,000 + Tax + Postage</p>
+				<a href="http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-G.html">More infomaton</a>
+				<img src="img/portfolio/SAKURA-G.jpg" class="img-responsive img-centered" ></img>
+			      </div>
+			      
+			      <div class="col-lg-5">
+				<h3>SAKURA-X</h3>
+				<p>JPY 370,000 + Tax + Postage</p>
+				<a href="http://satoh.cs.uec.ac.jp/SAKURA/hardware/SAKURA-X.html">More infomaton</a>
+
+				<img src="img/portfolio/SAKURA-X.jpg" class="img-responsive img-centered" ></img>
+			      </div>
+			      
+			    </div>
+			    {% endif %}
+
+
+			    
                             <p>{{ post.description }}</p>
+                            <p>{{ post.content }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong>{{ post.client }}</strong>

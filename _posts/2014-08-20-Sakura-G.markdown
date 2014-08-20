@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 1
+date: 2014-08-20
+img: Sakura-G.jpg
+alt: image-alt
+project-date: August 2014
+client: Developper
+category: SakuraBoard Development
+description: 
+---
+* JPY 160,000 + Tax + Postage
+
+SAKURA-Gはサイドチャネル攻撃（SCA）やフォルト・インジェクション攻撃（FIA）、PUF及び動的再構成といったハードウェアセキュリティの研究と開発用に設計されています。</p><p>二つのSpartan™-6 FPGAがボード上で統合されており、それぞれがコントローラーとメインセキュリティ回路として機能しています。
+
+SAKURA-GはSASEBO-GIIと高い互換性を持ちながらも、SAKURA-Gに搭載されているSpartan™-6 LX75はSASEBO-GIIのVirtex™-5 LX30よりも2.5倍大きな論理回路を持っています。
+
+超低ノイズのボード設計でオンボードアンプであるので電力解析がより簡単です。
+
+SASEBO-GII用にデザインされたVerilog-HDLコードや無償のISE® WebPACK™開発ソフトウェアを使うことによって簡単にSAKURA-Gを設定、操作することができます。
