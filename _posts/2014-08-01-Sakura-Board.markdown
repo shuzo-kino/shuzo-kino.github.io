@@ -13,7 +13,7 @@ sakura: yes
 
 ---
 
-### SAKURA Board　とは？    What's the SAKURA Board?
+### SAKURA Boardとは？    What's the SAKURA Board?
 
 暗号回路の国際規格化に貢献するため産総研でSASEBO(Side-channel Attack Standard Evaluation BOard)プロジェクトが2007年に開始。
 

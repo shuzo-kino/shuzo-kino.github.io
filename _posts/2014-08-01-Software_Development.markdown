@@ -7,7 +7,10 @@ alt: image-alt
 project-date: August 2014
 client: Developper
 category: Development
+title_ja: 受託開発
+
 ---
+
 
 各種センサネットワークシステム、およびWebシステムの受託開発を承っております。
 
@@ -19,5 +22,5 @@ category: Development
 
 組み込み機器試作開発(AVR、Linux)
 
-<a href='{% post_url 2014-08-20-Sakura-G %}'></a>
 
+### Sorry, but this business is for Japan-domestic only.

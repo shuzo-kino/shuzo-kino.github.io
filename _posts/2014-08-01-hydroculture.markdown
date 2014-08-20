@@ -8,6 +8,7 @@ project-date: August 2014
 client: Hydroculture 
 category: Hydroculture
 description:
+title_ja: 水耕栽培
 
 ---
 温度，照度，湿度，pHなど様々なセンサーで収集したデータを解析、制御します。
