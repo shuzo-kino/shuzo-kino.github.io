@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-08-01
-img: suikou.png
+img: water_farm_logo.png
 alt: image-alt
 project-date: August 2014
 client: Hydroculture 

@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-08-01
+modal-id: 3
+date: 2014-08-02
 img: keyboard.png
 alt: image-alt
 project-date: August 2014
